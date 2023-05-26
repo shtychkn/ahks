@@ -10,7 +10,7 @@ loop
 {
 	;buy marks
 	MouseMove, 1164, 735
-	Sleep, 2500
+	Sleep, 3000
 	loop 9
 	{
 		Send {LButton}
